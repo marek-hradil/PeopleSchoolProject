@@ -1,3 +1,7 @@
+'''
+Python zde je hrozně ugly, tak si moc nedělej závěry, řekl bych že dokážu psát lepší kód :D (hlavně ne Python teda)
+'''
+
 import matplotlib as mt
 import chart
 from Person import Person
