@@ -1,0 +1,79 @@
+- Zkopíroval jsem texty ze stránky v anglické podobě (v češtině to není dostupé) a snažil se to nějak přeložit.
+- Nejdřív jsem napsal nějakou introdukci, pak něco z historie a z čeho vyšli a pak co vyčíst z vašich výsledků typu osobnosti.
+- Pak jsem jsem vám poslal nějaké screeny, které vám mohou pomoc v prezentaci, samozřejmě ten sreen s tím přehledem co jaká písmena znamenají jsem odbyl 
+  to můžete udělat jinak nebo to nějak vylepšit
+
+On our website, we describe how people belonging to a specific personality type are likely to behave. 
+We outline indicators and tendencies, however, not definitive guidelines or answers. 
+Significant differences can exist even among people who share a personality type. 
+The information on this website is meant to inspire personal growth and an improved 
+understanding of yourself and your relationships – not to be taken as gospel.
+- Na jejich stránkách charakterizují určité typy osobností a jak by se měli chovat(podle osobnosti, která jim vyjde).
+  Vypíšou vám přehled tendencí a nějaká pravidla, kterýma se řídíte(podle osobnosti, která jim vyjde), ale tyhle pravidla jsou spíše obecná a nemusí vás úplně vystihnout.
+  Osoby stejné osobnosti se mohou chovat v určitých situacích uplne jinak.
+  Informace na této stránce jsou určeny k poznání sama sebe, vašich vztahů k ostatním a k jakémusi osobnímu rozvoji.
+  
+Carl Gustav Jung.
+One of Jung’s key contributions was the development of the concept of Introversion and Extraversion – he theorized that each of us falls 
+into one of these two categories, either focusing on the internal world (Introvert) or the outside world (Extravert).
+Jung coined the concept of so-called cognitive functions, separated into Judging or Perceiving categories. 
+According to Jung, each person prefers one of these cognitive functions and may most naturally rely on it in everyday situations.
+Katharine Cook Briggs developed a convenient way to describe the order of each person’s Jungian preferences and created four-letter acronyms.
+- Carl Gustav Jung, který tvrdil, že každý člověk spadá do kategorie introvert nebo extrovert.
+  Také další 2 kategorie představovaly soudící a vnímavý (přesněji popsáno později u těch 4 písmených rozdělení)   
+  Katherine Briggs Jungova tvrzení vylepšila a doplnila svoje další vlastnosti a vytvořila 4 písmené indexy. 
+
+Instead of creating an arbitrary number of categories and attempting to fit people within them, a trait-based model simply studies the degree to which people exhibit certain traits.
+- Místo toho, aby vytvořily stovky jiných typů osobností vám vypíšou jak moc spadáte do jejich takzvaných pěti aspektů osobnosti (Mind, Energy, Nature, Tacticts, identity). 
+  Toho dosáhnou tak, že místo odpovědí ANO/NE odpovídáte na měřítku 1-7 (Strongly agree - agree - slightly agree - Neutral - slightly disagree - disagree -  Strongly disagree)
+  Př. Když vám vypíšou 51% extrovert a 49% introvert u typů vám vypíšou, že jste extrovert, ale díky číslům víte, že jste mezi.
+
+Five Personality Aspects
+This section will describe five personality aspects that, when combined, define the personality type: Mind, Energy, Nature, Tactics and Identity. 
+Each of these aspects should be seen as a two-sided continuum, with the “neutral” option placed in the middle. 
+The percentages you would have seen after completing the test are meant to show which categories you fall under, and how strong your preferences are.
+- 5 aspektů osobnosti
+  Popisují vaše vlastnosti - Mind, Energy, Nature, Tactics and Identity
+  Tyto aspekty jsou vyzobrazeny 2 možnostmi s možností neutrální kde jste umístěni mezi.
+  Procenta, která vám vyjdou vás ukážou jak moc spadáte k jedné z těchto možností.
+
+MIND
+Introverted individuals prefer solitary activities and get exhausted by social interaction. 
+They tend to be quite sensitive to external stimulation (e.g. sound, sight or smell) in general.
+                                             X
+Extraverted individuals prefer group activities and get energized by social interaction. 
+They tend to be more enthusiastic and more easily excited than Introverts. 
+- Introverti - preferují osamělé činnosti a sociální interakce je vysilují a bývají háklivý na hlasité zvuky atd.             
+- Extroverti - preferují společenské činnosti a sociální interakce jim dodávají energii a bývají více nadšení a vzrušení :D.
+
+
+ENERGY
+Observant individuals are highly practical, pragmatic and down-to-earth. They tend to have strong habits and focus on what is happening or has already happened.
+                                                                          X
+Intuitive individuals are very imaginative, open-minded and curious. They prefer novelty over stability and focus on hidden meanings and future possibilities.
+- Všímavý jsou více praktičtí a realističtí. Mývají jakési zvyky, které dodržují (autisti -_-) a zaměřují se na realitu(minulost a přítomnost) ne budoucnost.
+- Intuitivní jsou spíše nápadití, otevření názorům a zvědaví. Zajímají se o novinky ve světě a přemýšlí o budoucnosti.
+ 
+
+NATURE
+Thinking individuals focus on objectivity and rationality, prioritizing logic over emotions. They tend to hide their feelings and see efficiency as more important than cooperation. 
+                                                                                  X
+Feeling individuals are sensitive and emotionally expressive. They are more empathic and less competitive than Thinking types, and focus on social harmony and cooperation.
+- Přemýšlící osoby jsou objektivní a racionální, preferují logiku místo emocí. Schovávají své emoce a vídí efektivnost lepší než spolupráci.
+- Cítící osoby jsou více senzitivní a dávají na jevo své emoce, soucítí s ostatními a zaměřují se na spolupráci
+
+
+TACTICS
+Judging individuals are decisive, thorough and highly organized. They value clarity, predictability and closure, preferring structure and planning to spontaneity.
+                                                                                   X
+Prospecting individuals are very good at improvising and spotting opportunities. They tend to be flexible, relaxed nonconformists who prefer keeping their options open.
+- Rozhodné osoby jsou organizovaní, preferují jasnost a předvídatelnost. Jsou to spíše uzavřené osoby a upřednostňují strukturu a plánování před improvizací
+- Rozhledné osoby jsou dobří v improvizaci a nacházení dobrých příležitostí. Jsou flexibilní, uvolnění a preferují více otevřených možností. 
+
+
+IDENTITY
+Assertive (-A) individuals are self-assured, even-tempered and resistant to stress. They refuse to worry too much and do not push themselves too hard when it comes to achieving goals.
+                                                                                          X
+Turbulent (-T) individuals are self-conscious and sensitive to stress. They are likely to experience a wide range of emotions and to be success-driven, perfectionistic and eager to improve.
+- Asertivní osoby jsou sebejistí, vyrovnaní a odolní vůči stresu. Nedělají si obavy a nechodí do extrémů kvůli jejich cílům.
+- Turbulentní osoby jsou sebeuvědomělí a podléhají stresu. Jsou emocionální, perfekcionisti a snaží se neustále zlepšovat. 
