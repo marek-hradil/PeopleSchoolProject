@@ -38,7 +38,7 @@
   - co je schopna říct
 - porovnání s ČR
   - porovnání našich dat s https://www.16personalities.com/country-profiles/czech-republic
-  - prosím udělat výřezy z těch grafů který korespondují s našema, uvedenýma v předchozím bodu
+  - prosím udělat výřezy z těch grafů který korespondují s našema, uvedenýma v předchozím bodu + Bars.svg nebo .png
 - (pokud zbyde čas) co se moc nepovedlo
   - kompatibilita osobností
     - compatibility.jpg

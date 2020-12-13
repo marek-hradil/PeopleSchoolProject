@@ -16,7 +16,7 @@ def draw_stat_bar_chart(people, key, title):
     plt.barh(y_pos, height)
     plt.yticks(y_pos, bars)
 
-    plt.savefig(f'./assets/{title}.svg', format='svg')
+    plt.savefig(f'./assets/{title}.png', format='png', dpi=500)
     plt.clf()
 
 def draw_class_ratio_chart(people):
@@ -51,7 +51,7 @@ def draw_class_ratio_chart(people):
     plt.barh(y_pos, height)
     plt.yticks(y_pos, bars)
 
-    plt.savefig(f'./assets/PrumerneHodnoty.svg', format='svg')
+    plt.savefig(f'./assets/PrumerneHodnoty.png', format='png', dpi=500)
     plt.clf()
 
 def draw_class_network(people, density = 0):
@@ -65,7 +65,7 @@ def draw_class_network(people, density = 0):
 
     pos = nx.spring_layout(G, k=0.55, iterations=50)
     nx.draw(G, pos, with_labels=True, node_color='red', edge_color='green')
-    plt.savefig(f'./assets/Network_{density}.png')
+    plt.savefig(f'./assets/Network_{density}.png', dpi=500)
     plt.clf()
 
 def draw_most_connected_people(people, treshhold = 0):
@@ -84,7 +84,7 @@ def draw_most_connected_people(people, treshhold = 0):
     plt.barh(y_pos, height)
     plt.yticks(y_pos, bars)
 
-    plt.savefig(f'./assets/Connections_{treshhold}.png')
+    plt.savefig(f'./assets/Connections_{treshhold}.png', dpi=500)
     plt.clf()
 
 def draw_types(people):
@@ -106,7 +106,7 @@ def draw_types(people):
     plt.barh(y_pos, height)
     plt.yticks(y_pos, bars)
 
-    plt.savefig(f'./assets/Types.png')
+    plt.savefig(f'./assets/Types.png', dpi=500)
     plt.clf()
 
 def draw_bars(people):
@@ -156,7 +156,7 @@ def draw_bars(people):
     ax.set_xticklabels(labels)
     ax.legend()
 
-    plt.savefig(f'./assets/Bars.svg', format='svg')
+    plt.savefig(f'./assets/Bars.png', format='png', dpi=500)
     plt.clf()
 
 def draw_types_pie(people):
@@ -175,5 +175,26 @@ def draw_types_pie(people):
     ax1.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=90)
     ax1.axis('equal')
 
-    plt.savefig(f'./assets/TypesPie.svg', format="svg")
+    plt.savefig(f'./assets/TypesPie.png', format="png", dpi=500)
+    plt.clf()
+
+
+def draw_types_categories_pie(people):
+    people_types = {
+        'an': 26.57,
+        'di': 41.41,
+        'se': 18.52,
+        'ex': 13.5,
+    }
+
+    labels = ['Analytici', 'Diplomaté', 'Strážci', 'Průzkumníci']
+    sizes = [count for _, count in people_types.items()]
+    colors = ['#8f749c', '#56ac8a', '#51a9ab', '#e2a942']
+
+    _, ax1 = plt.subplots()
+    ax1.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=90, colors=colors)
+    ax1.axis('equal')
+    ax1.set_title('Kategorie typů osobností: ČR')
+
+    plt.savefig(f'./assets/TypesCategoriesPieCR.png', format="png", dpi=500)
     plt.clf()
